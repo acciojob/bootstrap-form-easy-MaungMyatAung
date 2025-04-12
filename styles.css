@@ -1,2 +1,6 @@
-
-/* Your CSS Code here. */
+body {
+      padding: 2rem;
+    }
+    .container {
+      max-width: 800px;
+    }
